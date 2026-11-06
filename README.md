@@ -11,7 +11,7 @@
   <legend align="left"><h3>About me</h3></legend>
 
   <em>
-Im a <strong>back-end developer</strong> and a student at <strong> Madiun State Polytechnic</strong>. My journey in the world of technology began with a vocational high school program in Informatics for the Internet, which provided me with a solid foundation that I now apply to software development.</p>
+Im a <strong>back-end developer</strong> and a student at <strong> Madiun State Polytechnic</strong>. My journey in the world of technology began with a vocational high school program in Informatics for the Internet, which provided me with a solid foundation that I now apply to software development.
   </em> 
   <br>
 <div align= "center">
@@ -52,18 +52,23 @@ Im a <strong>back-end developer</strong> and a student at <strong> Madiun State 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
   <br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg3OWtwZDlhNGtzYjF0cTQ2YzIxMWE0bG45cXpmZnMzMXVmemdlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif" width="50"/><p align="center">
+  <br>
+  <div align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg3OWtwZDlhNGtzYjF0cTQ2YzIxMWE0bG45cXpmZnMzMXVmemdlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif" width="50"/>
+  </div>
+</p>
+</fieldset>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Achmad-Wildan-M">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Achmad-Wildan-M&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Achmad-Wildan-M&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
-<link rel="stylesheet" type='text/css' href="" />
+
 <br>
 <br>
 
 - 📫 Contact: **wmachmad@gmail.com**
-
-<p align="center">
